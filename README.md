@@ -5,6 +5,6 @@ A detailed guide on building your very own sound machine using JavaScript, Node.
 
 I have updated the source code to match the latest version Electron.
 
-Reference URL of the application of this url is below
+Reference URL of the application is below
 
 https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.o7u7vs49w
